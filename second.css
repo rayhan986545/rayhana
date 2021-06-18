@@ -1,0 +1,207 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.headtop {
+  height: 550px;
+  width: 90%;
+  color: #000;
+  margin: 10px 0 0 60px;
+  background-image: url(img/pexels-vally-thutlwe-4490460.jpg);
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+  color: azure;
+  text-transform: uppercase;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+.headone {
+  display: flex;
+}
+.headone,
+b > h2 {
+  color: #fff;
+  text-transform: uppercase;
+  padding-right: 20px;
+  margin: 10px 0 0 35px;
+}
+
+h2 {
+  color: brown;
+}
+
+.menu {
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+.headtow {
+  margin: 90px 0 0 70px;
+}
+
+.headtow h2 {
+  color: blanchedalmond;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+
+.headtow h1 {
+  padding-bottom: 5px;
+  text-transform: capitalize;
+  font-size: 40px;
+}
+
+.headtow button {
+  height: 35px;
+  width: 150px;
+  color: blanchedalmond;
+  background-color: brown;
+  border: none;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.bord{
+  height: 1050px;
+  width: 90%;
+  margin-left: 60px;
+}
+
+.im{
+  height: 500px;
+  width: 600px;
+  background-image: url(img/pexels-clam-lo-3469713.jpg);
+  background-size: cover;
+  margin: -45px 0 0 450px;
+  border-radius: 5px;
+  position: absolute;
+  z-index: -1;
+}
+
+.vejla{
+  height: 400px;
+  width: 400px;
+  box-shadow: 0 0 5px 6px;
+  background-color: antiquewhite;
+  margin: 120px 0 0 75px;
+}
+
+.to>h3{
+  color: red;
+  font-size: 18px;
+}
+
+.to>h2{
+  color: #000;
+
+}
+
+.to{
+  margin: 0 0 0 20px;
+  padding-top: 30px;
+  
+}
+
+.imgea{
+  height: 100px;
+  width: 160px;
+  background-image: url(img/pexels-cottonbro-5648355.jpg);
+  background-size: cover;
+  border-radius: 50%;
+}
+
+.ir{
+  display: flex;
+  margin: 20px 0 0 10px;
+  gap: 60px;
+
+}
+.rit p{
+  text-indent: 50px;
+}
+
+.rit p b {
+  font-size: 20px;
+}
+
+
+.u{
+  text-align: center;
+  color: red;
+  font-size: 30px;
+  text-transform: capitalize;
+  margin-top: 200px;
+  margin-bottom: 80px;
+}
+
+.box1{
+  height: 200px;
+  width: 250px;
+  background-image: url(img/pexels-cottonbro-5934347.jpg);
+  background-size: cover;
+  font-size: 30px;
+}
+
+
+.box2{
+  height: 200px;
+  width: 250px;
+  background-image: url(img/pexels-hannah-gibbs-949274.jpg);
+  background-size: cover;
+  font-size: 30px;
+}
+
+.box3{
+  height: 200px;
+  width: 250px;
+  background-image: url(img/pexels-jonatas-lopes-7059156.jpg);
+  background-size: cover;
+  font-size: 30px;
+}
+
+
+.write1{
+  padding: 150px 0 0 10px;
+}
+
+.write2{
+  padding: 130px 0 0 10px;
+}
+
+.threei{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 70%;
+  margin-left: 190px;
+}
+
+.bottom{
+  height: 300px;
+  width: 90%;
+  margin-left: 50px;
+  border: 1px solid black;
+  background-color: black;
+  color: #fff;
+  display: grid;
+  grid-template-columns: 300px auto auto auto;
+  padding-top: 100px;
+  padding-left: 10px;
+}
+
+
+.bottom b{
+  font-size: 30px;
+}
+
+.left h2{
+  padding-bottom: 20px;
+}
+
+
+.bottom ul{
+  padding-top: 5px;
+}
